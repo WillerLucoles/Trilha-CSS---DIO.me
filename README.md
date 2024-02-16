@@ -4,10 +4,8 @@ Este repositório contém uma landing page desenvolvida como parte da trilha de 
 
 ## Preview
 
+<img src="/Screen_site.png" alt="Site"/>
 
-
-
-[Live Demo](#) - Adicione um link para uma versão ao vivo da landing page, se aplicável.
 
 ## Tecnologias Utilizadas
 
