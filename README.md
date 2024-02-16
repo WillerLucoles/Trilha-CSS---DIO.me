@@ -7,6 +7,8 @@ Este repositório contém uma landing page desenvolvida como parte da trilha de 
 <img src="/Screen_site.png" alt="Site"/>
 
 
+
+<a url="https://trilha-css-dio-me.vercel.app/" alt="Site_TrilhaCss">
 ## Tecnologias Utilizadas
 
 - HTML5
